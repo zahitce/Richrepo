@@ -17,7 +17,7 @@ For installation instructions and documentation, check out http://jdorn.github.i
 If you have a question, post on the official forum - http://ost.io/@jdorn/php-reports
 
 
-Basic Introductionn
+Basic Introductionnfd
 ============
 
 Reports are organized and grouped in directories.  Each report is it's own file.
